@@ -1,7 +1,10 @@
-console.log('Hello World');
-
 const add = (a, b) => a + b;
 
-const result = add(3, 4);
+const resultAdd = add(3, 4);
 
-console.log(result);
+const subtract = (a, b) => a - b;
+
+const resultSubtract = subtract(20, 4);
+
+console.log(resultAdd);
+console.log(resultSubtract);
