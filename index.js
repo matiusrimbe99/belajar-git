@@ -14,7 +14,11 @@ const devide = (a, b) => a / b;
 
 const resultDevide = devide(30, 2);
 
+const mathSin = (number) => Math.sin(number);
+const resultMathSin = mathSin(30);
+
 console.log(resultAddNumber);
 console.log(resultSubtract);
 console.log(resultMultiplyNumber);
 console.log(resultDevide);
+console.log(resultMathSin);
