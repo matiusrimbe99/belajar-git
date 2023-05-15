@@ -1,6 +1,6 @@
 const add = (a, b) => a + b;
 
-const resultAdd = add(3, 4);
+const resultAddNumber = add(3, 4);
 
 const subtract = (a, b) => a - b;
 
@@ -14,7 +14,7 @@ const devide = (a, b) => a / b;
 
 const resultDevide = devide(30, 2);
 
-console.log(resultAdd);
+console.log(resultAddNumber);
 console.log(resultSubtract);
 console.log(resultMultiplyNumber);
 console.log(resultDevide);
