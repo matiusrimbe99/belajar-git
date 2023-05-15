@@ -6,7 +6,7 @@ const subtract = (a, b) => a - b;
 
 const resultSubtract = subtract(20, 4);
 
-const multiply = (a, b) => a * b;
+const multiplyNumber = (a, b) => a * b;
 
 const resultMultiply = multiply(20, 3);
 
